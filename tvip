@@ -27,9 +27,6 @@ http://iptvclub.live:25461/NLcypMGLchPpnoH/5smt9DuaslcoCQk/80336|user-agent="Lav
 #EXTINF:-1 tvg-ID="" tvg-name="SURYA MUSIC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/ba/SRM.jpg" group-title="AS MALAYALAM",SURYA MUSIC
 http://iptvclub.live:25461/NLcypMGLchPpnoH/5smt9DuaslcoCQk/80339|user-agent="Lavf53.32.100"
 
-#EXTINF:-1 tvg-ID="" tvg-name="RAJ MUSIC" tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/rajMusixMalayalam.png" group-title="AS MALAYALAM",RAJ MUSIC
-http://iptvclub.live:25461/NLcypMGLchPpnoH/5smt9DuaslcoCQk/80332|user-agent="Lavf53.32.100"
-
 #EXTINF:5, tvg-id="EPG N/A" tvg-logo="https://tvtolive.com/wp-content/uploads/Jukebox-tvtolive.com_.jpg" tvg-name="ACV Jukebox"  group-title="MALAYALAM",ACV Jukebox
 https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
 
@@ -103,7 +100,7 @@ http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8|user-ag
 #EXTINF:19, tvg-id="Asianet News-IN" tvg-logo="https://pbs.twimg.com/profile_images/916211736381882368/r4ceZqN6_400x400.jpg" tvg-name="ASIANET NEWS"  group-title="MALAYALAM",ASIANET NEWS
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8|user-agent="VLC/3.0.0-git LibVLC/3.0.0-git"
 
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: ASIANET NEWS HD" tvg-logo="https://pbs.twimg.com/profile_images/916211736381882368/r4ceZqN6_400x400.jpg" group-title="MALAYALAM",MAL: ASIANET NEWS
+#EXTINF:-1 tvg-ID="" tvg-name="MAL: ASIANET NEWS HD" tvg-logo="https://pbs.twimg.com/profile_images/916211736381882368/r4ceZqN6_400x400.jpg" group-title="MALAYALAM",ASIANET NEWS
 http://iptvclub.live:25461/NLcypMGLchPpnoH/5smt9DuaslcoCQk/80338|user-agent="Lavf53.32.100"
 
 #EXTINF:20, tvg-id="EPG N/A" tvg-logo="https://www.manoramanews.com/feo-cdn/Y/S/Y0JqgT0Bw.jpg" tvg-name="MANORAMA NEWS"  group-title="MALAYALAM",MANORAMA NEWS
